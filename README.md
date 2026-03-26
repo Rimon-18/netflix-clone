@@ -11,7 +11,8 @@ A fully responsive Netflix UI clone built using HTML, CSS, and JavaScript.
 - Smooth hover effects
 
 ## 📸 Screenshots
-<img width="1885" height="1031" alt="Screenshot 2026-03-21 215814" src="https://github.com/user-attachments/assets/12974e58-ea8c-4951-86a0-e7c12fda7780" />
+<img width="1882" height="1035" alt="image" src="https://github.com/user-attachments/assets/ac1fcdbc-fa7f-4fc4-883a-7586ca72d0ca" />
+
 
 
 ## 🛠️ Tech Stack
