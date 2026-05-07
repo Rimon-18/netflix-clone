@@ -3,7 +3,7 @@
 A fully responsive Netflix UI clone built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
-👉 [Click here to visit the live site] https://rimon-movie-ui.netlify.app/
+👉[Click here to visit the live site](https://spotify-clone-rimon.onrender.com)
 
 ## 🚀 Features
 - Responsive design
