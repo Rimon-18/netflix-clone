@@ -21,4 +21,5 @@ A fully responsive Netflix UI clone built using HTML, CSS, and JavaScript.
 
 
 ## 👨‍💻 Author
-Rimon
+**Rimon**
+- GitHub: [@Rimon-18](https://github.com/Rimon-18)
